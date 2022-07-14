@@ -1,5 +1,5 @@
 import React from "react";
-import {username, city, image} from "../data/user"
+import {username, city} from "../data/user"
 
 // let username = "Liza"
 // let city = "New York"
